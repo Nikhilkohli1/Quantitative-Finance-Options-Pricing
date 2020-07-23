@@ -1,3 +1,3 @@
-# Quantitative-Finance - Options-Pricing
+# Financial Engineering - Options Pricing
 
-Implementation of Black Scholes &amp; State Price Density for Option Pricing in Python
+Implementation of Black Scholes & State Price Density for Option Pricing using Python
